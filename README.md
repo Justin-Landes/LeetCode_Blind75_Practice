@@ -13,11 +13,23 @@ Focus: Understand the pattern, not just solve it.
 Reinforcement: Document understanding and weak points for additional review.
 
 ## Completion Progress
-| Category             | Total | Completed | ✅ % |
-|----------------------|-------|-----------|------|
-| Arrays               | 10    | 0         | 0%   |
-| Strings              | 10    | 0         | 0%   |
-| Linked Lists         | 10    | 0         | 0%   |
-| Trees                | 10    | 0         | 0%   |
-| Graphs               | 10    | 0         | 0%   |
-| Dynamic Programming  | 10    | 0         | 0%   |
+| Category                  | Total | Done |
+|---------------------------|-------|------|
+01-arrays_and_hashing			8		0
+02-two_pointers					3		0
+03-sliding_window				4		0
+04-stack						1		0
+05-binary_search				2		0
+06-linked_list					6		0
+07-trees						11		0
+08-heap_and_priority_queue		1		0
+09-backtracking					2		0
+10-tries						3		0
+11-graphs						6		0	
+12-advanced_graphs				1		0
+13-1d_dp						10		0
+14-2d_dp						2		0
+15-greedy						2		0
+16-intervals					5		0
+17-math_and_geometry			3		0
+18-bit_manipulation				5		0
